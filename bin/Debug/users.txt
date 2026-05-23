@@ -1,0 +1,11 @@
+100#admin@scis.bw#pass@123#System#Admin#M#71710000#Admin#1/1/2020
+200#registrar@scis.bw#pass@123#Elias#Emmanuel#M#72720000#Registrar#1/2/2020
+300#alice@scis.bw#pass@123#Alice#Johnson#F#74740000#Admin Assistant#1/3/2020
+400#laone@scis.bw#pass@123#Laone#Malema#F#75750000#Lecturer#1/4/2020
+500#kagiso@scis.bw#pass@123#Kagiso#Nonyane#M#76760000#Lecturer#1/5/2020
+600#prosper@scis.bw#pass@123#Prosper#Smith#M#77770000#Lecturer#1/6/2020  200#+email+ #pass@123#Elias#Emmanuel#Male#System.Windows.Forms.Label, Text: Cell No#Registrar#Saturday, February 1, 2020
+300#+email+ #pass@123#Alice#Johnson#Female#System.Windows.Forms.Label, Text: Cell No#Admin Assisstant#Sunday, March 1, 2020
+400#+email+ #pass@123#Laone#Malema#Female#System.Windows.Forms.Label, Text: Cell No#Lecturer#4/1/2026
+1001#+email+ #pass@123#Kgomotso#Mpofu#Male#System.Windows.Forms.Label, Text: Cell No#Admin#4/18/2026
+120#+email+ #pass@123#Teresa#Mpofu#Female#System.Windows.Forms.Label, Text: Cell No#Lecturer#4/18/2026
+100#+email+ #pass@123#Teresa #Mpofu#Female#System.Windows.Forms.Label, Text: Cell No#Admin Assisstant#4/18/2026

@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\StudentGradeBookSystems\bin\Debug\StudentGradeBookSystems.exe.config
+C:\Users\Dell\source\repos\StudentGradeBookSystems\bin\Debug\StudentGradeBookSystems.exe
+C:\Users\Dell\source\repos\StudentGradeBookSystems\bin\Debug\StudentGradeBookSystems.pdb
+C:\Users\Dell\source\repos\StudentGradeBookSystems\obj\Debug\StudentGradeBookSystems.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\StudentGradeBookSystems\obj\Debug\StudentGradeBookSystems.LoginForm.resources
+C:\Users\Dell\source\repos\StudentGradeBookSystems\obj\Debug\StudentGradeBookSystems.Properties.Resources.resources
+C:\Users\Dell\source\repos\StudentGradeBookSystems\obj\Debug\StudentGradeBookSystems.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\StudentGradeBookSystems\obj\Debug\StudentGradeBookSystems.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\StudentGradeBookSystems\obj\Debug\StudentGradeBookSystems.exe
+C:\Users\Dell\source\repos\StudentGradeBookSystems\obj\Debug\StudentGradeBookSystems.pdb
+C:\Users\Dell\source\repos\StudentGradeBookSystems\obj\Debug\StudentGradeBookSystems.DashBoardForm.resources
+C:\Users\Dell\source\repos\StudentGradeBookSystems\obj\Debug\StudentGradeBookSystems.RegistrationForm.resources
+C:\Users\Dell\source\repos\StudentGradeBookSystems\obj\Debug\StudentGradeBookSystems.CaptureMarksForm.resources
+C:\Users\Dell\source\repos\StudentGradeBookSystems\obj\Debug\StudentGradeBookSystems.ViewResultsForm.resources
+C:\Users\Dell\source\repos\StudentGradeBookSystems\obj\Debug\StudentGradeBookSystems.ModuleStatisticsForm.resources

@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|c:\\users\\dell\\source\\repos\\studentgradebooksystems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\modulestatisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|solutionrelative:modulestatisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\capturemarksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|solutionrelative:capturemarksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|solutionrelative:registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\capturemarksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|solutionrelative:capturemarksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\capturemarksform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|solutionrelative:capturemarksform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|solutionrelative:loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\viewresultsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|solutionrelative:viewresultsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\modulestatisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|solutionrelative:modulestatisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\capturemarksform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|solutionrelative:capturemarksform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|solutionrelative:dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|solutionrelative:registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|solutionrelative:dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\settings.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|solutionrelative:settings.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\viewresultsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|solutionrelative:viewresultsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\viewresultsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|solutionrelative:viewresultsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\registrationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|solutionrelative:registrationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2287D33-4A16-4160-B167-6A9D8F63134B}|StudentGradeBookSystems.csproj|solutionrelative:dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegistrationForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "RegistrationForm.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\RegistrationForm.cs",
+              "RelativeToolTip": "RegistrationForm.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAEwEgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T20:15:13.595Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CaptureMarksForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\CaptureMarksForm.cs",
+              "RelativeDocumentMoniker": "CaptureMarksForm.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\CaptureMarksForm.cs",
+              "RelativeToolTip": "CaptureMarksForm.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAApwDcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:19:32.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "RegistrationForm.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\RegistrationForm.cs [Design]",
+              "RelativeToolTip": "RegistrationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T17:47:58.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CaptureMarksForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\CaptureMarksForm.cs",
+              "RelativeDocumentMoniker": "CaptureMarksForm.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\CaptureMarksForm.cs [Design]",
+              "RelativeToolTip": "CaptureMarksForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:57:33.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CaptureMarksForm.resx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\CaptureMarksForm.resx",
+              "RelativeDocumentMoniker": "CaptureMarksForm.resx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\CaptureMarksForm.resx",
+              "RelativeToolTip": "CaptureMarksForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-04-27T12:43:03.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DashBoardForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\DashBoardForm.cs",
+              "RelativeDocumentMoniker": "DashBoardForm.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\DashBoardForm.cs",
+              "RelativeToolTip": "DashBoardForm.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T17:48:16.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ModuleStatisticsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\ModuleStatisticsForm.cs",
+              "RelativeDocumentMoniker": "ModuleStatisticsForm.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\ModuleStatisticsForm.cs",
+              "RelativeToolTip": "ModuleStatisticsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T16:53:46.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CaptureMarksForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\CaptureMarksForm.Designer.cs",
+              "RelativeDocumentMoniker": "CaptureMarksForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\CaptureMarksForm.Designer.cs",
+              "RelativeToolTip": "CaptureMarksForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T12:45:01.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModuleStatisticsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\ModuleStatisticsForm.cs",
+              "RelativeDocumentMoniker": "ModuleStatisticsForm.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\ModuleStatisticsForm.cs [Design]",
+              "RelativeToolTip": "ModuleStatisticsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T16:46:05.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T17:01:24.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DashBoardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\DashBoardForm.cs",
+              "RelativeDocumentMoniker": "DashBoardForm.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\DashBoardForm.cs [Design]",
+              "RelativeToolTip": "DashBoardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T20:25:34.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "settings.txt",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\settings.txt",
+              "RelativeDocumentMoniker": "settings.txt",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\settings.txt",
+              "RelativeToolTip": "settings.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-15T17:16:06.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ViewResultsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\ViewResultsForm.cs",
+              "RelativeDocumentMoniker": "ViewResultsForm.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\ViewResultsForm.cs [Design]",
+              "RelativeToolTip": "ViewResultsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T21:10:49.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ViewResultsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\ViewResultsForm.cs",
+              "RelativeDocumentMoniker": "ViewResultsForm.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\ViewResultsForm.cs",
+              "RelativeToolTip": "ViewResultsForm.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAC4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T21:18:18.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewResultsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\ViewResultsForm.Designer.cs",
+              "RelativeDocumentMoniker": "ViewResultsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\ViewResultsForm.Designer.cs",
+              "RelativeToolTip": "ViewResultsForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T17:29:12.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T15:00:11.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAqwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T14:46:49.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\LoginForm.Designer.cs",
+              "RelativeToolTip": "LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T08:52:24.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T12:28:27.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DashBoardForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\DashBoardForm.Designer.cs",
+              "RelativeDocumentMoniker": "DashBoardForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\DashBoardForm.Designer.cs",
+              "RelativeToolTip": "DashBoardForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:05:48.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegistrationForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\RegistrationForm.Designer.cs",
+              "RelativeDocumentMoniker": "RegistrationForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StudentGradeBookSystems\\RegistrationForm.Designer.cs",
+              "RelativeToolTip": "RegistrationForm.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:06:32.685Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
